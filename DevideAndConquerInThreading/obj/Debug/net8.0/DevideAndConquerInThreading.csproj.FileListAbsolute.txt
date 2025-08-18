@@ -1,0 +1,15 @@
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/bin/Debug/net8.0/DevideAndConquerInThreading
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/bin/Debug/net8.0/DevideAndConquerInThreading.deps.json
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/bin/Debug/net8.0/DevideAndConquerInThreading.runtimeconfig.json
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/bin/Debug/net8.0/DevideAndConquerInThreading.dll
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/bin/Debug/net8.0/DevideAndConquerInThreading.pdb
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/obj/Debug/net8.0/DevideAndConquerInThreading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/obj/Debug/net8.0/DevideAndConquerInThreading.AssemblyInfoInputs.cache
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/obj/Debug/net8.0/DevideAndConquerInThreading.AssemblyInfo.cs
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/obj/Debug/net8.0/DevideAndConquerInThreading.csproj.CoreCompileInputs.cache
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/obj/Debug/net8.0/DevideAndConquerInThreading.sourcelink.json
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/obj/Debug/net8.0/DevideAndConquerInThreading.dll
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/obj/Debug/net8.0/refint/DevideAndConquerInThreading.dll
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/obj/Debug/net8.0/DevideAndConquerInThreading.pdb
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/obj/Debug/net8.0/DevideAndConquerInThreading.genruntimeconfig.cache
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/DevideAndConquerInThreading/obj/Debug/net8.0/ref/DevideAndConquerInThreading.dll
