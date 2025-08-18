@@ -1,0 +1,14 @@
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/bin/Debug/net8.0/ThreadingBasics
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/bin/Debug/net8.0/ThreadingBasics.deps.json
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/bin/Debug/net8.0/ThreadingBasics.runtimeconfig.json
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/bin/Debug/net8.0/ThreadingBasics.dll
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/bin/Debug/net8.0/ThreadingBasics.pdb
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ThreadingBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ThreadingBasics.AssemblyInfoInputs.cache
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ThreadingBasics.AssemblyInfo.cs
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ThreadingBasics.csproj.CoreCompileInputs.cache
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ThreadingBasics.dll
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/refint/ThreadingBasics.dll
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ThreadingBasics.pdb
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ThreadingBasics.genruntimeconfig.cache
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ref/ThreadingBasics.dll
