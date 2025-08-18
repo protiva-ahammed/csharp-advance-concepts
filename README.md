@@ -1,4 +1,4 @@
-<h5>Practical use of these concepts in building an embeded system to a digital pick system to complete the task by multiple staff concurrently to reduce the picking,sorting time of multiple package of customer order system.</h5>
+<h5>Practical Implementation of mine using these concepts to build an embeded system to complete the task by multiple staffs concurrently to reduce the picking,sorting,packing time of multiple packages in a customer order system.</h5>
 
 <h5>Implementations in C#:</h5>
  Upcoming Codes in following concepts:
