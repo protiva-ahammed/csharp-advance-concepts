@@ -12,3 +12,4 @@
 /Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ThreadingBasics.pdb
 /Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ThreadingBasics.genruntimeconfig.cache
 /Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ref/ThreadingBasics.dll
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/ThreadingBasics/obj/Debug/net8.0/ThreadingBasics.sourcelink.json
