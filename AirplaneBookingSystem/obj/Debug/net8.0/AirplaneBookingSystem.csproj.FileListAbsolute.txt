@@ -1,0 +1,15 @@
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/bin/Debug/net8.0/AirplaneBookingSystem
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/bin/Debug/net8.0/AirplaneBookingSystem.deps.json
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/bin/Debug/net8.0/AirplaneBookingSystem.runtimeconfig.json
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/bin/Debug/net8.0/AirplaneBookingSystem.dll
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/bin/Debug/net8.0/AirplaneBookingSystem.pdb
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/obj/Debug/net8.0/AirplaneBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/obj/Debug/net8.0/AirplaneBookingSystem.AssemblyInfoInputs.cache
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/obj/Debug/net8.0/AirplaneBookingSystem.AssemblyInfo.cs
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/obj/Debug/net8.0/AirplaneBookingSystem.csproj.CoreCompileInputs.cache
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/obj/Debug/net8.0/AirplaneBookingSystem.sourcelink.json
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/obj/Debug/net8.0/AirplaneBookingSystem.dll
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/obj/Debug/net8.0/refint/AirplaneBookingSystem.dll
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/obj/Debug/net8.0/AirplaneBookingSystem.pdb
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/obj/Debug/net8.0/AirplaneBookingSystem.genruntimeconfig.cache
+/Users/ahmed/Downloads/java-code/python-basics/csharp-advanced/AirplaneBookingSystem/obj/Debug/net8.0/ref/AirplaneBookingSystem.dll
