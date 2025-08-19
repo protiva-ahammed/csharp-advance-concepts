@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingBasics", "Threadin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServer", "WebServer\WebServer.csproj", "{E6AD3AF2-FD81-47F0-B6A8-D2D5B6EA833C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirplaneBookingSystem", "AirplaneBookingSystem\AirplaneBookingSystem.csproj", "{CC9C619B-229E-4EF7-9BAB-14CE257377FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{E6AD3AF2-FD81-47F0-B6A8-D2D5B6EA833C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6AD3AF2-FD81-47F0-B6A8-D2D5B6EA833C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6AD3AF2-FD81-47F0-B6A8-D2D5B6EA833C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9C619B-229E-4EF7-9BAB-14CE257377FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9C619B-229E-4EF7-9BAB-14CE257377FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9C619B-229E-4EF7-9BAB-14CE257377FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9C619B-229E-4EF7-9BAB-14CE257377FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
